@@ -1,0 +1,23 @@
+{
+  "name": "smartrooms-api",
+  "version": "0.0.1",
+  "description": "smartrooms node.js api",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maateuss/smartrooms.git"
+  },
+  "keywords": [
+    "devops",
+    "tech"
+  ],
+  "author": "Mateus Moura Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maateuss/smartrooms/issues"
+  },
+  "homepage": "https://github.com/maateuss/smartrooms#readme"
+}
